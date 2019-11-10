@@ -1,6 +1,7 @@
-CKEditor 4
+Shinder(An Advanced and Integrated CKEditor 4 with CKFinder 3)
 ==========
 
+Copyright (c) 2019, Shinder. All rights reserved.
 Copyright (c) 2003-2017, CKSource - Frederico Knabben. All rights reserved.
 http://ckeditor.com - See LICENSE.md for license information.
 
